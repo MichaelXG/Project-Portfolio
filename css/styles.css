@@ -1,0 +1,73 @@
+.logo-img {
+	width: 100px;
+	text-align: left;
+}
+.imagem {
+	width: 280px !important;
+	alignment-baseline: central;
+}
+.row{
+	width: : 100px;	
+}
+.imagem-container,
+.top-row {
+	margin: 20px;
+}
+.div {
+  text-align: center;
+}
+.responsive-imagem {
+	max-height: 100px;
+	height: auto;
+}
+.pointer { 
+	cursor: pointer; 
+}
+.margem {
+	margin-top: 0.5em;
+  	margin-bottom: 0.5em;
+  	margin-left: 0.5em; 
+  	margin: 0px 0px 0px 0px;	
+}
+.imagem-centro {
+	width: 100%;
+
+}
+.line {
+	width: 100%;
+	display: block;
+  	margin-top: 0.5em;
+  	margin-bottom: 0.5em;
+  	margin-left: 0.5em; 
+  	border-style: solid;
+  	border-width: 3px;
+  	color: #7d97ad;
+}
+.h1 {
+	color: #000;
+	font: 40px arial, sans-serif;
+	text-align: right;
+}
+.h2 {
+	color: #7d97ad;
+	font: 40px;
+	font-family: 'Questrial', sans-serif;
+	margin: 0px;
+	color: #2d3c49;
+	text-align: center;
+}
+.h3 {
+	color: #7d97ad;
+	font: 40px arial, sans-serif;
+	text-align: left;
+}
+.h4 {
+	color: #000;
+	font: 25px arial, sans-serif;
+	text-align: right;
+}
+.a {
+	
+	font: 15px arial, sans-serif;
+	text-align: left;
+}
